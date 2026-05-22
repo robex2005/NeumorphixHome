@@ -108,8 +108,35 @@ neumorphix-light-inset:
   card-mod-root-yaml: |
     .: |
       ha-card[outlined] {
-        --ha-card-border-color: #d8d8d8 !important;
+        --ha-card-border-color: #d0d0d0 !important;
         --ha-card-border-width: 1px !important;
+      }
+      /* HA 2025.x picker/textfield/select fix */
+      ha-picker-field,
+      ha-combo-box,
+      ha-combo-box-item,
+      ha-dropdown-item,
+      ha-textfield,
+      ha-select,
+      ha-md-select,
+      ha-md-textfield {
+        --mdc-text-field-fill-color: #e8e8e8 !important;
+        --mdc-text-field-disabled-fill-color: #e8e8e8 !important;
+        --mdc-select-fill-color: #e8e8e8 !important;
+        --mdc-select-disabled-fill-color: #e8e8e8 !important;
+        --mdc-text-field-ink-color: #2c2f3a !important;
+        --mdc-select-ink-color: #2c2f3a !important;
+        --md-filled-field-container-color: #e8e8e8 !important;
+        --md-filled-text-field-container-color: #e8e8e8 !important;
+        --md-outlined-text-field-container-color: #e8e8e8 !important;
+        --md-filled-select-text-field-container-color: #e8e8e8 !important;
+        --ha-color-fill-neutral-quiet-resting: #e8e8e8 !important;
+        --ha-color-fill-neutral-normal-resting: #e8e8e8 !important;
+        background-color: #e8e8e8 !important;
+        color: #2c2f3a !important;
+      }
+      ha-picker-field {
+        border-radius: 14px !important;
       }
   card-mod-sidebar-yaml: |
     .: |
@@ -231,6 +258,33 @@ neumorphix-dark-inset:
         --ha-card-border-color: #3a4055 !important;
         --ha-card-border-width: 1px !important;
       }
+      /* HA 2025.x picker/textfield/select fix */
+      ha-picker-field,
+      ha-combo-box,
+      ha-combo-box-item,
+      ha-dropdown-item,
+      ha-textfield,
+      ha-select,
+      ha-md-select,
+      ha-md-textfield {
+        --mdc-text-field-fill-color: #1e2128 !important;
+        --mdc-text-field-disabled-fill-color: #1e2128 !important;
+        --mdc-select-fill-color: #1e2128 !important;
+        --mdc-select-disabled-fill-color: #1e2128 !important;
+        --mdc-text-field-ink-color: #e2e8f0 !important;
+        --mdc-select-ink-color: #e2e8f0 !important;
+        --md-filled-field-container-color: #1e2128 !important;
+        --md-filled-text-field-container-color: #1e2128 !important;
+        --md-outlined-text-field-container-color: #1e2128 !important;
+        --md-filled-select-text-field-container-color: #1e2128 !important;
+        --ha-color-fill-neutral-quiet-resting: #1e2128 !important;
+        --ha-color-fill-neutral-normal-resting: #1e2128 !important;
+        background-color: #1e2128 !important;
+        color: #e2e8f0 !important;
+      }
+      ha-picker-field {
+        border-radius: 14px !important;
+      }
   card-mod-sidebar-yaml: |
     .: |
       .badge {
@@ -348,8 +402,35 @@ neumorphix-claude-inset:
   card-mod-root-yaml: |
     .: |
       ha-card[outlined] {
-        --ha-card-border-color: #d8d2cc !important;
+        --ha-card-border-color: #d0c9c2 !important;
         --ha-card-border-width: 1px !important;
+      }
+      /* HA 2025.x picker/textfield/select fix */
+      ha-picker-field,
+      ha-combo-box,
+      ha-combo-box-item,
+      ha-dropdown-item,
+      ha-textfield,
+      ha-select,
+      ha-md-select,
+      ha-md-textfield {
+        --mdc-text-field-fill-color: #e4ddd7 !important;
+        --mdc-text-field-disabled-fill-color: #e4ddd7 !important;
+        --mdc-select-fill-color: #e4ddd7 !important;
+        --mdc-select-disabled-fill-color: #e4ddd7 !important;
+        --mdc-text-field-ink-color: #2d2620 !important;
+        --mdc-select-ink-color: #2d2620 !important;
+        --md-filled-field-container-color: #e4ddd7 !important;
+        --md-filled-text-field-container-color: #e4ddd7 !important;
+        --md-outlined-text-field-container-color: #e4ddd7 !important;
+        --md-filled-select-text-field-container-color: #e4ddd7 !important;
+        --ha-color-fill-neutral-quiet-resting: #e4ddd7 !important;
+        --ha-color-fill-neutral-normal-resting: #e4ddd7 !important;
+        background-color: #e4ddd7 !important;
+        color: #2d2620 !important;
+      }
+      ha-picker-field {
+        border-radius: 14px !important;
       }
   card-mod-sidebar-yaml: |
     .: |
