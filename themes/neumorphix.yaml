@@ -520,8 +520,8 @@ neumorphix-dark-taupe:
       }
 
 
-neumorphix-claude:
-  card-mod-theme: neumorphix-claude
+neumorphix-dark-noir:
+  card-mod-theme: neumorphix-dark-noir
   ha-card-background: "#ede8e3"
   primary-background-color: "#ede8e3"
   secondary-background-color: "#e4ddd7"

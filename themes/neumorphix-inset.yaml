@@ -517,8 +517,8 @@ neumorphix-dark-taupe-inset:
         color: #26211e !important;
       }
 
-neumorphix-claude-inset:
-  card-mod-theme: neumorphix-claude-inset
+neumorphix-dark-noir-inset:
+  card-mod-theme: neumorphix-dark-noir-inset
   ha-card-background: "#e5e0db"
   primary-background-color: "#ede8e3"
   secondary-background-color: "#e4ddd7"
