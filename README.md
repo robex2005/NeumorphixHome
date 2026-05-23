@@ -2,12 +2,12 @@
 
 A neumorphic theme for [Home Assistant](https://www.home-assistant.io/) that brings soft shadows, rounded surfaces, and a tactile 3D feel to your dashboards.
 
-NeuMorphix ships with **6 theme variants** across two styles:
+NeuMorphix ships with **10 theme variants** across two styles:
 
-| Style | Light | Dark | Claude |
-|-------|-------|------|--------|
-| **Raised** | `neumorphix-light` | `neumorphix-dark` | `neumorphix-claude` |
-| **Inset** | `neumorphix-light-inset` | `neumorphix-dark-inset` | `neumorphix-claude-inset` |
+| Style | Light | Dark |
+|-------|-------|------|
+| **Raised** | `neumorphix-light` | `neumorphix-dark` (and variants) |
+| **Inset** | `neumorphix-light-inset` | `neumorphix-dark-inset` (and variants) |
 
 - **Raised** variants give cards and elements a soft, extruded look — the classic neumorphic style.
 - **Inset** variants flip the effect so elements appear pressed into the surface.
@@ -30,7 +30,7 @@ NeuMorphix ships with **6 theme variants** across two styles:
 2. Go to **Frontend** (the three-dot menu in the top right).
 3. Select **Custom repositories**.
 4. Add the URL of this repository ( https://github.com/robex2005/NeumorphixHome ) and choose **Theme** as the category.
-5. Search for **NeuMorphix** in HACS and install it.
+5. Search for **NeuMorphix Home** in HACS and install it.
 6. Restart Home Assistant.
 
 ### Manual
@@ -62,18 +62,19 @@ After restarting, go to **Settings → General** and pick a NeuMorphix variant f
 ![neumorphix-dark](screenshots/NeuMorphix%20Dark.png)
 ![neumorphix-dark-inset](screenshots/NeuMorphix%20Dark%20Inset.png)
 
-### Claude
-![neumorphix-claude](screenshots/NeuMorphix%20Claude.png)
-![neumorphix-claude-inset](screenshots/NeuMorphix%20Claude%20Inset.png)
-
 ## Theme variants
 
 - `neumorphix-light` — light raised neumorphic
-- `neumorphix-dark` — dark raised neumorphic
-- `neumorphix-claude` — claude-inspired raised neumorphic
 - `neumorphix-light-inset` — light inset neumorphic
+- `neumorphix-dark` — dark raised neumorphic
 - `neumorphix-dark-inset` — dark inset neumorphic
-- `neumorphix-claude-inset` — claude-inspired inset neumorphic
+- `neumorphix-dark-taupe` — dark warm raised neumorphic
+- `neumorphix-dark-taupe-inset` — dark warm inset neumorphic
+- `neumorphix-dark-graphite` — dark graphite raised neumorphic
+- `neumorphix-dark-graphite-inset` — dark graphite inset neumorphic
+- `neumorphix-dark-ash` — dark ash raised neumorphic
+- `neumorphix-dark-ash-inset` — dark ash inset neumorphic
+  
 
 ## License
 
