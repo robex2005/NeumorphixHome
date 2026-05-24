@@ -5,12 +5,12 @@ A neumorphic theme for [Home Assistant](https://www.home-assistant.io/) that bri
 ## Screenshots
 
 ### Light
-![morphhomex-light](screenshots/NeuMorphix%20Light.png)
-![morphhomex-light-inset](screenshots/NeuMorphix%20Light%20Inset.png)
+![morphhomex-light](screenshots/MorphHomeX%20Light.png)
+![morphhomex-light-inset](screenshots/MorphHomeX%20Light%20Inset.png)
 
 ### Dark
-![morphhomex-dark](screenshots/NeuMorphix%20Dark.png)
-![morphhomex-dark-inset](screenshots/NeuMorphix%20Dark%20Inset.png)
+![morphhomex-dark](screenshots/MorphHomeX%20Dark.png)
+![morphhomex-dark-inset](screenshots/MorphHomeX%20Dark%20Inset.png)
 
 ## Theme variants
 
