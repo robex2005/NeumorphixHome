@@ -6,10 +6,12 @@ A neumorphic theme for [Home Assistant](https://www.home-assistant.io/) that bri
 
 ### Light
 ![morphhomex-light](screenshots/MorphHomeX%20Light.png)
+### Light INSET
 ![morphhomex-light-inset](screenshots/MorphHomeX%20Light%20Inset.png)
 
 ### Dark
 ![morphhomex-dark](screenshots/MorphHomeX%20Dark.png)
+### Dark INSET
 ![morphhomex-dark-inset](screenshots/MorphHomeX%20Dark%20Inset.png)
 
 ## Theme variants
