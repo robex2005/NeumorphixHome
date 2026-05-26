@@ -165,3 +165,838 @@ morphhomex-light:
         background-color: #6c7ae0 !important;
         color: #ffffff !important;
       }
+morphhomex-dark:
+  card-mod-theme: morphhomex-dark
+  ha-card-background: "#1e2030"
+  primary-background-color: "#1a1c2e"
+  secondary-background-color: "#161828"
+  card-background-color: "#1e2030"
+  divider-color: "#2a2d42"
+  neu-shadow-light: "#252840"
+  neu-shadow-dark: "#141626"
+  neu-shadow-raised: "4px 4px 12px #141626, -4px -4px 12px #252840"
+  neu-shadow-inset: "inset 2px 2px 5px #141626, inset -2px -2px 5px #252840"
+  neu-shadow-flat: "2px 2px 4px #141626, -2px -2px 4px #252840"
+  primary-color: "#7b8ff0"
+  accent-color: "#7b8ff0"
+  neu-accent: "#7b8ff0"
+  neu-accent-glow: "#7b8ff030"
+  neu-accent-inset: "inset 4px 4px 8px #6070d8, inset -4px -4px 8px #96aeff"
+  primary-text-color: "#e8eaf6"
+  secondary-text-color: "#9094a8"
+  disabled-text-color: "#5a5e72"
+  text-primary-color: "#e8eaf6"
+  label-badge-text-color: "#e8eaf6"
+  ha-card-border-radius: "20px"
+  ha-card-border-width: "0px"
+  ha-card-border-color: "transparent"
+  neu-radius: "20px"
+  neu-radius-sm: "14px"
+  neu-radius-xs: "10px"
+  ha-card-box-shadow: "4px 4px 12px #141626, -4px -4px 12px #252840, inset 1px 1px 0px #252840"
+  app-header-background-color: "#1a1c2e"
+  app-header-text-color: "#e8eaf6"
+  app-header-selection-bar-color: "#7b8ff0"
+  sidebar-background-color: "#161828"
+  sidebar-text-color: "#e8eaf6"
+  sidebar-icon-color: "#9094a8"
+  sidebar-selected-text-color: "#7b8ff0"
+  sidebar-selected-icon-color: "#7b8ff0"
+  switch-checked-color: "#7b8ff0"
+  switch-unchecked-button-color: "#3a3d52"
+  switch-unchecked-track-color: "#2a2d42"
+  paper-slider-active-color: "#7b8ff0"
+  paper-slider-knob-color: "#7b8ff0"
+  paper-slider-secondary-color: "#7b8ff050"
+  state-active-color: "#7b8ff0"
+  state-inactive-color: "#3a3d52"
+  state-unavailable-color: "#2a2d42"
+  mush-rgb-disabled: "90, 94, 114"
+  label-badge-background-color: "#7b8ff0"
+  paper-item-selected-color: "#7b8ff0"
+  table-row-alternative-background-color: "#1a1d2f"
+  paper-listbox-background-color: "#1e2030"
+  paper-input-container-color: "#9094a8"
+  paper-input-container-focus-color: "#7b8ff0"
+  input-fill-color: "#161828"
+  input-ink-color: "#e8eaf6"
+  input-label-ink-color: "#9094a8"
+  input-dropdown-icon-color: "#9094a8"
+  material-background-color: "#1e2030"
+  material-secondary-background-color: "#161828"
+  ha-card-header-color: "#e8eaf6"
+  settings-row-content-color: "#e8eaf6"
+  settings-row-secondary-color: "#9094a8"
+  list-item-color: "#e8eaf6"
+  ha-color-surface-default: "#1e2030"
+  ha-color-surface-low: "#161828"
+  ha-color-surface-lower: "#121422"
+  ha-color-surface-high: "#252840"
+  ha-color-surface-higher: "#2e3148"
+  ha-color-fill-primary-normal-resting: "#252840"
+  ha-color-form-background: "#161828"
+  ha-color-form-background-hover: "#1e2030"
+  ha-color-form-background-disabled: "#1a1c2e"
+  ha-color-fill-primary-normal-hover: "#2a2d42"
+  ha-color-fill-primary-normal-active: "#2a2d42"
+  ha-color-fill-primary-quiet-resting: "#1e2030"
+  ha-color-fill-primary-loud-resting: "#7b8ff0"
+  ha-color-fill-neutral-normal-resting: "#252840"
+  ha-color-fill-neutral-normal-hover: "#2a2d42"
+  ha-color-fill-neutral-quiet-resting: "#1e2030"
+  ha-color-fill-disabled-normal-resting: "#1a1c2e"
+  ha-color-on-fill-primary: "#e8eaf6"
+  ha-color-on-fill-neutral: "#e8eaf6"
+  ha-color-on-fill-loud: "#ffffff"
+  ha-color-border-neutral-quiet-resting: "#2a2d42"
+  ha-color-border-neutral-normal-resting: "#2a2d42"
+  ha-color-border-primary-normal-resting: "#7b8ff0"
+  ha-color-text-primary: "#e8eaf6"
+  ha-color-text-secondary: "#9094a8"
+  ha-color-text-disabled: "#5a5e72"
+  ha-color-primary-40: "#7b8ff0"
+  ha-color-primary-30: "#7b8ff0"
+  ha-color-primary-50: "#7b8ff0"
+  rgb-primary-color: "123, 143, 240"
+  mdc-select-fill-color: "#161828"
+  mdc-menu-surface-fill-color: "#1e2030"
+  md-sys-color-surface: "#1e2030"
+  md-sys-color-surface-container: "#161828"
+  md-sys-color-surface-container-low: "#1e2030"
+  md-sys-color-surface-container-high: "#252840"
+  md-sys-color-surface-container-highest: "#2e3148"
+  md-sys-color-surface-bright: "#252840"
+  md-sys-color-surface-dim: "#121422"
+  md-sys-color-on-surface: "#e8eaf6"
+  md-sys-color-on-surface-variant: "#9094a8"
+  md-sys-color-primary: "#7b8ff0"
+  md-sys-color-on-primary: "#ffffff"
+  md-sys-color-outline: "#2a2d42"
+  md-sys-color-outline-variant: "#2a2d42"
+  wa-form-control-background-color: "#161828"
+  wa-form-control-border-color: "#2a2d42"
+  wa-form-control-border-color-hover: "#7b8ff0"
+  wa-form-control-border-color-focus: "#7b8ff0"
+  wa-form-control-value-color: "#e8eaf6"
+  wa-form-control-label-color: "#e8eaf6"
+  wa-form-control-placeholder-color: "#9094a8"
+  wa-form-control-hint-color: "#9094a8"
+  wa-color-surface-default: "#1e2030"
+  wa-color-surface-raised: "#252840"
+  wa-color-surface-lowered: "#121422"
+  wa-color-surface-border: "#2a2d42"
+  wa-color-text-normal: "#e8eaf6"
+  wa-color-text-quiet: "#9094a8"
+  wa-color-neutral-fill-quiet: "#1e2030"
+  wa-color-neutral-fill-normal: "#252840"
+  wa-color-neutral-on-quiet: "#e8eaf6"
+  wa-color-neutral-on-normal: "#e8eaf6"
+  wa-color-brand-fill-loud: "#7b8ff0"
+  wa-color-brand-on-loud: "#ffffff"
+  wa-color-focus: "#7b8ff0"
+  card-mod-root-yaml: |
+    .: |
+      ha-card[outlined] {
+        --ha-card-border-color: #2a2d42 !important;
+        --ha-card-border-width: 1px !important;
+      }
+      ha-picker-field,
+      ha-combo-box,
+      ha-combo-box-item,
+      ha-dropdown-item,
+      ha-textfield,
+      ha-select,
+      ha-md-select,
+      ha-md-textfield {
+        --mdc-text-field-fill-color: #161828 !important;
+        --mdc-text-field-disabled-fill-color: #161828 !important;
+        --mdc-select-fill-color: #161828 !important;
+        --mdc-select-disabled-fill-color: #161828 !important;
+        --mdc-text-field-ink-color: #e8eaf6 !important;
+        --mdc-select-ink-color: #e8eaf6 !important;
+        --md-filled-field-container-color: #161828 !important;
+        --md-filled-text-field-container-color: #161828 !important;
+        --md-outlined-text-field-container-color: #161828 !important;
+        --md-filled-select-text-field-container-color: #161828 !important;
+        --ha-color-fill-neutral-quiet-resting: #161828 !important;
+        --ha-color-fill-neutral-normal-resting: #161828 !important;
+        background-color: #161828 !important;
+        color: #e8eaf6 !important;
+      }
+      ha-picker-field {
+        border-radius: 14px !important;
+      }
+  card-mod-sidebar-yaml: |
+    .: |
+      .badge {
+        background-color: #7b8ff0 !important;
+        color: #ffffff !important;
+      }
+morphhomex-dark-taupe:
+  card-mod-theme: morphhomex-dark-taupe
+  ha-card-background: "#2a2420"
+  primary-background-color: "#241e1a"
+  secondary-background-color: "#1e1814"
+  card-background-color: "#2a2420"
+  divider-color: "#3a3028"
+  neu-shadow-light: "#342e28"
+  neu-shadow-dark: "#161210"
+  neu-shadow-raised: "4px 4px 12px #161210, -4px -4px 12px #342e28"
+  neu-shadow-inset: "inset 2px 2px 5px #161210, inset -2px -2px 5px #342e28"
+  neu-shadow-flat: "2px 2px 4px #161210, -2px -2px 4px #342e28"
+  primary-color: "#c8a882"
+  accent-color: "#c8a882"
+  neu-accent: "#c8a882"
+  neu-accent-glow: "#c8a88230"
+  neu-accent-inset: "inset 4px 4px 8px #a88860, inset -4px -4px 8px #e8c8a0"
+  primary-text-color: "#e8ddd0"
+  secondary-text-color: "#a09080"
+  disabled-text-color: "#6a6058"
+  text-primary-color: "#e8ddd0"
+  label-badge-text-color: "#e8ddd0"
+  ha-card-border-radius: "20px"
+  ha-card-border-width: "0px"
+  ha-card-border-color: "transparent"
+  neu-radius: "20px"
+  neu-radius-sm: "14px"
+  neu-radius-xs: "10px"
+  ha-card-box-shadow: "4px 4px 12px #161210, -4px -4px 12px #342e28, inset 1px 1px 0px #342e28"
+  app-header-background-color: "#241e1a"
+  app-header-text-color: "#e8ddd0"
+  app-header-selection-bar-color: "#c8a882"
+  sidebar-background-color: "#1e1814"
+  sidebar-text-color: "#e8ddd0"
+  sidebar-icon-color: "#a09080"
+  sidebar-selected-text-color: "#c8a882"
+  sidebar-selected-icon-color: "#c8a882"
+  switch-checked-color: "#c8a882"
+  switch-unchecked-button-color: "#4a4038"
+  switch-unchecked-track-color: "#3a3028"
+  paper-slider-active-color: "#c8a882"
+  paper-slider-knob-color: "#c8a882"
+  paper-slider-secondary-color: "#c8a88250"
+  state-active-color: "#c8a882"
+  state-inactive-color: "#4a4038"
+  state-unavailable-color: "#3a3028"
+  mush-rgb-disabled: "106, 96, 88"
+  label-badge-background-color: "#c8a882"
+  paper-item-selected-color: "#c8a882"
+  table-row-alternative-background-color: "#221c18"
+  paper-listbox-background-color: "#2a2420"
+  paper-input-container-color: "#a09080"
+  paper-input-container-focus-color: "#c8a882"
+  input-fill-color: "#1e1814"
+  input-ink-color: "#e8ddd0"
+  input-label-ink-color: "#a09080"
+  input-dropdown-icon-color: "#a09080"
+  material-background-color: "#2a2420"
+  material-secondary-background-color: "#1e1814"
+  ha-card-header-color: "#e8ddd0"
+  settings-row-content-color: "#e8ddd0"
+  settings-row-secondary-color: "#a09080"
+  list-item-color: "#e8ddd0"
+  ha-color-surface-default: "#2a2420"
+  ha-color-surface-low: "#1e1814"
+  ha-color-surface-lower: "#181410"
+  ha-color-surface-high: "#342e28"
+  ha-color-surface-higher: "#3e3830"
+  ha-color-fill-primary-normal-resting: "#342e28"
+  ha-color-form-background: "#1e1814"
+  ha-color-form-background-hover: "#2a2420"
+  ha-color-form-background-disabled: "#241e1a"
+  ha-color-fill-primary-normal-hover: "#3a3028"
+  ha-color-fill-primary-normal-active: "#3a3028"
+  ha-color-fill-primary-quiet-resting: "#2a2420"
+  ha-color-fill-primary-loud-resting: "#c8a882"
+  ha-color-fill-neutral-normal-resting: "#342e28"
+  ha-color-fill-neutral-normal-hover: "#3a3028"
+  ha-color-fill-neutral-quiet-resting: "#2a2420"
+  ha-color-fill-disabled-normal-resting: "#241e1a"
+  ha-color-on-fill-primary: "#e8ddd0"
+  ha-color-on-fill-neutral: "#e8ddd0"
+  ha-color-on-fill-loud: "#1a1410"
+  ha-color-border-neutral-quiet-resting: "#3a3028"
+  ha-color-border-neutral-normal-resting: "#3a3028"
+  ha-color-border-primary-normal-resting: "#c8a882"
+  ha-color-text-primary: "#e8ddd0"
+  ha-color-text-secondary: "#a09080"
+  ha-color-text-disabled: "#6a6058"
+  ha-color-primary-40: "#c8a882"
+  ha-color-primary-30: "#c8a882"
+  ha-color-primary-50: "#c8a882"
+  rgb-primary-color: "200, 168, 130"
+  mdc-select-fill-color: "#1e1814"
+  mdc-menu-surface-fill-color: "#2a2420"
+  md-sys-color-surface: "#2a2420"
+  md-sys-color-surface-container: "#1e1814"
+  md-sys-color-surface-container-low: "#2a2420"
+  md-sys-color-surface-container-high: "#342e28"
+  md-sys-color-surface-container-highest: "#3e3830"
+  md-sys-color-surface-bright: "#342e28"
+  md-sys-color-surface-dim: "#181410"
+  md-sys-color-on-surface: "#e8ddd0"
+  md-sys-color-on-surface-variant: "#a09080"
+  md-sys-color-primary: "#c8a882"
+  md-sys-color-on-primary: "#1a1410"
+  md-sys-color-outline: "#3a3028"
+  md-sys-color-outline-variant: "#3a3028"
+  wa-form-control-background-color: "#1e1814"
+  wa-form-control-border-color: "#3a3028"
+  wa-form-control-border-color-hover: "#c8a882"
+  wa-form-control-border-color-focus: "#c8a882"
+  wa-form-control-value-color: "#e8ddd0"
+  wa-form-control-label-color: "#e8ddd0"
+  wa-form-control-placeholder-color: "#a09080"
+  wa-form-control-hint-color: "#a09080"
+  wa-color-surface-default: "#2a2420"
+  wa-color-surface-raised: "#342e28"
+  wa-color-surface-lowered: "#181410"
+  wa-color-surface-border: "#3a3028"
+  wa-color-text-normal: "#e8ddd0"
+  wa-color-text-quiet: "#a09080"
+  wa-color-neutral-fill-quiet: "#2a2420"
+  wa-color-neutral-fill-normal: "#342e28"
+  wa-color-neutral-on-quiet: "#e8ddd0"
+  wa-color-neutral-on-normal: "#e8ddd0"
+  wa-color-brand-fill-loud: "#c8a882"
+  wa-color-brand-on-loud: "#1a1410"
+  wa-color-focus: "#c8a882"
+  card-mod-root-yaml: |
+    .: |
+      ha-card[outlined] {
+        --ha-card-border-color: #3a3028 !important;
+        --ha-card-border-width: 1px !important;
+      }
+      ha-picker-field,
+      ha-combo-box,
+      ha-combo-box-item,
+      ha-dropdown-item,
+      ha-textfield,
+      ha-select,
+      ha-md-select,
+      ha-md-textfield {
+        --mdc-text-field-fill-color: #1e1814 !important;
+        --mdc-text-field-disabled-fill-color: #1e1814 !important;
+        --mdc-select-fill-color: #1e1814 !important;
+        --mdc-select-disabled-fill-color: #1e1814 !important;
+        --mdc-text-field-ink-color: #e8ddd0 !important;
+        --mdc-select-ink-color: #e8ddd0 !important;
+        --md-filled-field-container-color: #1e1814 !important;
+        --md-filled-text-field-container-color: #1e1814 !important;
+        --md-outlined-text-field-container-color: #1e1814 !important;
+        --md-filled-select-text-field-container-color: #1e1814 !important;
+        --ha-color-fill-neutral-quiet-resting: #1e1814 !important;
+        --ha-color-fill-neutral-normal-resting: #1e1814 !important;
+        background-color: #1e1814 !important;
+        color: #e8ddd0 !important;
+      }
+      ha-picker-field {
+        border-radius: 14px !important;
+      }
+  card-mod-sidebar-yaml: |
+    .: |
+      .badge {
+        background-color: #c8a882 !important;
+        color: #1a1410 !important;
+      }
+morphhomex-dark-graphite:
+  card-mod-theme: morphhomex-dark-graphite
+  ha-card-background: "#222428"
+  primary-background-color: "#1c1e22"
+  secondary-background-color: "#16181c"
+  card-background-color: "#222428"
+  divider-color: "#2e3238"
+  neu-shadow-light: "#2a2e34"
+  neu-shadow-dark: "#141618"
+  neu-shadow-raised: "4px 4px 12px #141618, -4px -4px 12px #2a2e34"
+  neu-shadow-inset: "inset 2px 2px 5px #141618, inset -2px -2px 5px #2a2e34"
+  neu-shadow-flat: "2px 2px 4px #141618, -2px -2px 4px #2a2e34"
+  primary-color: "#82c4a0"
+  accent-color: "#82c4a0"
+  neu-accent: "#82c4a0"
+  neu-accent-glow: "#82c4a030"
+  neu-accent-inset: "inset 4px 4px 8px #62a480, inset -4px -4px 8px #a2e4c0"
+  primary-text-color: "#d8e0d8"
+  secondary-text-color: "#889888"
+  disabled-text-color: "#586058"
+  text-primary-color: "#d8e0d8"
+  label-badge-text-color: "#d8e0d8"
+  ha-card-border-radius: "20px"
+  ha-card-border-width: "0px"
+  ha-card-border-color: "transparent"
+  neu-radius: "20px"
+  neu-radius-sm: "14px"
+  neu-radius-xs: "10px"
+  ha-card-box-shadow: "4px 4px 12px #141618, -4px -4px 12px #2a2e34, inset 1px 1px 0px #2a2e34"
+  app-header-background-color: "#1c1e22"
+  app-header-text-color: "#d8e0d8"
+  app-header-selection-bar-color: "#82c4a0"
+  sidebar-background-color: "#16181c"
+  sidebar-text-color: "#d8e0d8"
+  sidebar-icon-color: "#889888"
+  sidebar-selected-text-color: "#82c4a0"
+  sidebar-selected-icon-color: "#82c4a0"
+  switch-checked-color: "#82c4a0"
+  switch-unchecked-button-color: "#3a3e44"
+  switch-unchecked-track-color: "#2e3238"
+  paper-slider-active-color: "#82c4a0"
+  paper-slider-knob-color: "#82c4a0"
+  paper-slider-secondary-color: "#82c4a050"
+  state-active-color: "#82c4a0"
+  state-inactive-color: "#3a3e44"
+  state-unavailable-color: "#2e3238"
+  mush-rgb-disabled: "88, 96, 88"
+  label-badge-background-color: "#82c4a0"
+  paper-item-selected-color: "#82c4a0"
+  table-row-alternative-background-color: "#1a1c20"
+  paper-listbox-background-color: "#222428"
+  paper-input-container-color: "#889888"
+  paper-input-container-focus-color: "#82c4a0"
+  input-fill-color: "#16181c"
+  input-ink-color: "#d8e0d8"
+  input-label-ink-color: "#889888"
+  input-dropdown-icon-color: "#889888"
+  material-background-color: "#222428"
+  material-secondary-background-color: "#16181c"
+  ha-card-header-color: "#d8e0d8"
+  settings-row-content-color: "#d8e0d8"
+  settings-row-secondary-color: "#889888"
+  list-item-color: "#d8e0d8"
+  ha-color-surface-default: "#222428"
+  ha-color-surface-low: "#16181c"
+  ha-color-surface-lower: "#121416"
+  ha-color-surface-high: "#2a2e34"
+  ha-color-surface-higher: "#343840"
+  ha-color-fill-primary-normal-resting: "#2a2e34"
+  ha-color-form-background: "#16181c"
+  ha-color-form-background-hover: "#222428"
+  ha-color-form-background-disabled: "#1c1e22"
+  ha-color-fill-primary-normal-hover: "#2e3238"
+  ha-color-fill-primary-normal-active: "#2e3238"
+  ha-color-fill-primary-quiet-resting: "#222428"
+  ha-color-fill-primary-loud-resting: "#82c4a0"
+  ha-color-fill-neutral-normal-resting: "#2a2e34"
+  ha-color-fill-neutral-normal-hover: "#2e3238"
+  ha-color-fill-neutral-quiet-resting: "#222428"
+  ha-color-fill-disabled-normal-resting: "#1c1e22"
+  ha-color-on-fill-primary: "#d8e0d8"
+  ha-color-on-fill-neutral: "#d8e0d8"
+  ha-color-on-fill-loud: "#121a14"
+  ha-color-border-neutral-quiet-resting: "#2e3238"
+  ha-color-border-neutral-normal-resting: "#2e3238"
+  ha-color-border-primary-normal-resting: "#82c4a0"
+  ha-color-text-primary: "#d8e0d8"
+  ha-color-text-secondary: "#889888"
+  ha-color-text-disabled: "#586058"
+  ha-color-primary-40: "#82c4a0"
+  ha-color-primary-30: "#82c4a0"
+  ha-color-primary-50: "#82c4a0"
+  rgb-primary-color: "130, 196, 160"
+  mdc-select-fill-color: "#16181c"
+  mdc-menu-surface-fill-color: "#222428"
+  md-sys-color-surface: "#222428"
+  md-sys-color-surface-container: "#16181c"
+  md-sys-color-surface-container-low: "#222428"
+  md-sys-color-surface-container-high: "#2a2e34"
+  md-sys-color-surface-container-highest: "#343840"
+  md-sys-color-surface-bright: "#2a2e34"
+  md-sys-color-surface-dim: "#121416"
+  md-sys-color-on-surface: "#d8e0d8"
+  md-sys-color-on-surface-variant: "#889888"
+  md-sys-color-primary: "#82c4a0"
+  md-sys-color-on-primary: "#121a14"
+  md-sys-color-outline: "#2e3238"
+  md-sys-color-outline-variant: "#2e3238"
+  wa-form-control-background-color: "#16181c"
+  wa-form-control-border-color: "#2e3238"
+  wa-form-control-border-color-hover: "#82c4a0"
+  wa-form-control-border-color-focus: "#82c4a0"
+  wa-form-control-value-color: "#d8e0d8"
+  wa-form-control-label-color: "#d8e0d8"
+  wa-form-control-placeholder-color: "#889888"
+  wa-form-control-hint-color: "#889888"
+  wa-color-surface-default: "#222428"
+  wa-color-surface-raised: "#2a2e34"
+  wa-color-surface-lowered: "#121416"
+  wa-color-surface-border: "#2e3238"
+  wa-color-text-normal: "#d8e0d8"
+  wa-color-text-quiet: "#889888"
+  wa-color-neutral-fill-quiet: "#222428"
+  wa-color-neutral-fill-normal: "#2a2e34"
+  wa-color-neutral-on-quiet: "#d8e0d8"
+  wa-color-neutral-on-normal: "#d8e0d8"
+  wa-color-brand-fill-loud: "#82c4a0"
+  wa-color-brand-on-loud: "#121a14"
+  wa-color-focus: "#82c4a0"
+  card-mod-root-yaml: |
+    .: |
+      ha-card[outlined] {
+        --ha-card-border-color: #2e3238 !important;
+        --ha-card-border-width: 1px !important;
+      }
+      ha-picker-field,
+      ha-combo-box,
+      ha-combo-box-item,
+      ha-dropdown-item,
+      ha-textfield,
+      ha-select,
+      ha-md-select,
+      ha-md-textfield {
+        --mdc-text-field-fill-color: #16181c !important;
+        --mdc-text-field-disabled-fill-color: #16181c !important;
+        --mdc-select-fill-color: #16181c !important;
+        --mdc-select-disabled-fill-color: #16181c !important;
+        --mdc-text-field-ink-color: #d8e0d8 !important;
+        --mdc-select-ink-color: #d8e0d8 !important;
+        --md-filled-field-container-color: #16181c !important;
+        --md-filled-text-field-container-color: #16181c !important;
+        --md-outlined-text-field-container-color: #16181c !important;
+        --md-filled-select-text-field-container-color: #16181c !important;
+        --ha-color-fill-neutral-quiet-resting: #16181c !important;
+        --ha-color-fill-neutral-normal-resting: #16181c !important;
+        background-color: #16181c !important;
+        color: #d8e0d8 !important;
+      }
+      ha-picker-field {
+        border-radius: 14px !important;
+      }
+  card-mod-sidebar-yaml: |
+    .: |
+      .badge {
+        background-color: #82c4a0 !important;
+        color: #121a14 !important;
+      }
+morphhomex-dark-ash:
+  card-mod-theme: morphhomex-dark-ash
+  ha-card-background: "#282830"
+  primary-background-color: "#222228"
+  secondary-background-color: "#1c1c22"
+  card-background-color: "#282830"
+  divider-color: "#363640"
+  neu-shadow-light: "#303038"
+  neu-shadow-dark: "#181820"
+  neu-shadow-raised: "4px 4px 12px #181820, -4px -4px 12px #303038"
+  neu-shadow-inset: "inset 2px 2px 5px #181820, inset -2px -2px 5px #303038"
+  neu-shadow-flat: "2px 2px 4px #181820, -2px -2px 4px #303038"
+  primary-color: "#e0a060"
+  accent-color: "#e0a060"
+  neu-accent: "#e0a060"
+  neu-accent-glow: "#e0a06030"
+  neu-accent-inset: "inset 4px 4px 8px #c08040, inset -4px -4px 8px #ffbf7f"
+  primary-text-color: "#e8e0d8"
+  secondary-text-color: "#a8a098"
+  disabled-text-color: "#686060"
+  text-primary-color: "#e8e0d8"
+  label-badge-text-color: "#e8e0d8"
+  ha-card-border-radius: "20px"
+  ha-card-border-width: "0px"
+  ha-card-border-color: "transparent"
+  neu-radius: "20px"
+  neu-radius-sm: "14px"
+  neu-radius-xs: "10px"
+  ha-card-box-shadow: "4px 4px 12px #181820, -4px -4px 12px #303038, inset 1px 1px 0px #303038"
+  app-header-background-color: "#222228"
+  app-header-text-color: "#e8e0d8"
+  app-header-selection-bar-color: "#e0a060"
+  sidebar-background-color: "#1c1c22"
+  sidebar-text-color: "#e8e0d8"
+  sidebar-icon-color: "#a8a098"
+  sidebar-selected-text-color: "#e0a060"
+  sidebar-selected-icon-color: "#e0a060"
+  switch-checked-color: "#e0a060"
+  switch-unchecked-button-color: "#484850"
+  switch-unchecked-track-color: "#363640"
+  paper-slider-active-color: "#e0a060"
+  paper-slider-knob-color: "#e0a060"
+  paper-slider-secondary-color: "#e0a06050"
+  state-active-color: "#e0a060"
+  state-inactive-color: "#484850"
+  state-unavailable-color: "#363640"
+  mush-rgb-disabled: "104, 96, 96"
+  label-badge-background-color: "#e0a060"
+  paper-item-selected-color: "#e0a060"
+  table-row-alternative-background-color: "#202028"
+  paper-listbox-background-color: "#282830"
+  paper-input-container-color: "#a8a098"
+  paper-input-container-focus-color: "#e0a060"
+  input-fill-color: "#1c1c22"
+  input-ink-color: "#e8e0d8"
+  input-label-ink-color: "#a8a098"
+  input-dropdown-icon-color: "#a8a098"
+  material-background-color: "#282830"
+  material-secondary-background-color: "#1c1c22"
+  ha-card-header-color: "#e8e0d8"
+  settings-row-content-color: "#e8e0d8"
+  settings-row-secondary-color: "#a8a098"
+  list-item-color: "#e8e0d8"
+  ha-color-surface-default: "#282830"
+  ha-color-surface-low: "#1c1c22"
+  ha-color-surface-lower: "#161618"
+  ha-color-surface-high: "#303038"
+  ha-color-surface-higher: "#3c3c48"
+  ha-color-fill-primary-normal-resting: "#303038"
+  ha-color-form-background: "#1c1c22"
+  ha-color-form-background-hover: "#282830"
+  ha-color-form-background-disabled: "#222228"
+  ha-color-fill-primary-normal-hover: "#363640"
+  ha-color-fill-primary-normal-active: "#363640"
+  ha-color-fill-primary-quiet-resting: "#282830"
+  ha-color-fill-primary-loud-resting: "#e0a060"
+  ha-color-fill-neutral-normal-resting: "#303038"
+  ha-color-fill-neutral-normal-hover: "#363640"
+  ha-color-fill-neutral-quiet-resting: "#282830"
+  ha-color-fill-disabled-normal-resting: "#222228"
+  ha-color-on-fill-primary: "#e8e0d8"
+  ha-color-on-fill-neutral: "#e8e0d8"
+  ha-color-on-fill-loud: "#1a1000"
+  ha-color-border-neutral-quiet-resting: "#363640"
+  ha-color-border-neutral-normal-resting: "#363640"
+  ha-color-border-primary-normal-resting: "#e0a060"
+  ha-color-text-primary: "#e8e0d8"
+  ha-color-text-secondary: "#a8a098"
+  ha-color-text-disabled: "#686060"
+  ha-color-primary-40: "#e0a060"
+  ha-color-primary-30: "#e0a060"
+  ha-color-primary-50: "#e0a060"
+  rgb-primary-color: "224, 160, 96"
+  mdc-select-fill-color: "#1c1c22"
+  mdc-menu-surface-fill-color: "#282830"
+  md-sys-color-surface: "#282830"
+  md-sys-color-surface-container: "#1c1c22"
+  md-sys-color-surface-container-low: "#282830"
+  md-sys-color-surface-container-high: "#303038"
+  md-sys-color-surface-container-highest: "#3c3c48"
+  md-sys-color-surface-bright: "#303038"
+  md-sys-color-surface-dim: "#161618"
+  md-sys-color-on-surface: "#e8e0d8"
+  md-sys-color-on-surface-variant: "#a8a098"
+  md-sys-color-primary: "#e0a060"
+  md-sys-color-on-primary: "#1a1000"
+  md-sys-color-outline: "#363640"
+  md-sys-color-outline-variant: "#363640"
+  wa-form-control-background-color: "#1c1c22"
+  wa-form-control-border-color: "#363640"
+  wa-form-control-border-color-hover: "#e0a060"
+  wa-form-control-border-color-focus: "#e0a060"
+  wa-form-control-value-color: "#e8e0d8"
+  wa-form-control-label-color: "#e8e0d8"
+  wa-form-control-placeholder-color: "#a8a098"
+  wa-form-control-hint-color: "#a8a098"
+  wa-color-surface-default: "#282830"
+  wa-color-surface-raised: "#303038"
+  wa-color-surface-lowered: "#161618"
+  wa-color-surface-border: "#363640"
+  wa-color-text-normal: "#e8e0d8"
+  wa-color-text-quiet: "#a8a098"
+  wa-color-neutral-fill-quiet: "#282830"
+  wa-color-neutral-fill-normal: "#303038"
+  wa-color-neutral-on-quiet: "#e8e0d8"
+  wa-color-neutral-on-normal: "#e8e0d8"
+  wa-color-brand-fill-loud: "#e0a060"
+  wa-color-brand-on-loud: "#1a1000"
+  wa-color-focus: "#e0a060"
+  card-mod-root-yaml: |
+    .: |
+      ha-card[outlined] {
+        --ha-card-border-color: #363640 !important;
+        --ha-card-border-width: 1px !important;
+      }
+      ha-picker-field,
+      ha-combo-box,
+      ha-combo-box-item,
+      ha-dropdown-item,
+      ha-textfield,
+      ha-select,
+      ha-md-select,
+      ha-md-textfield {
+        --mdc-text-field-fill-color: #1c1c22 !important;
+        --mdc-text-field-disabled-fill-color: #1c1c22 !important;
+        --mdc-select-fill-color: #1c1c22 !important;
+        --mdc-select-disabled-fill-color: #1c1c22 !important;
+        --mdc-text-field-ink-color: #e8e0d8 !important;
+        --mdc-select-ink-color: #e8e0d8 !important;
+        --md-filled-field-container-color: #1c1c22 !important;
+        --md-filled-text-field-container-color: #1c1c22 !important;
+        --md-outlined-text-field-container-color: #1c1c22 !important;
+        --md-filled-select-text-field-container-color: #1c1c22 !important;
+        --ha-color-fill-neutral-quiet-resting: #1c1c22 !important;
+        --ha-color-fill-neutral-normal-resting: #1c1c22 !important;
+        background-color: #1c1c22 !important;
+        color: #e8e0d8 !important;
+      }
+      ha-picker-field {
+        border-radius: 14px !important;
+      }
+  card-mod-sidebar-yaml: |
+    .: |
+      .badge {
+        background-color: #e0a060 !important;
+        color: #1a1000 !important;
+      }
+morphhomex-dark-onyx:
+  card-mod-theme: morphhomex-dark-onyx
+  ha-card-background: "#1a1a1a"
+  primary-background-color: "#141414"
+  secondary-background-color: "#0f0f0f"
+  card-background-color: "#1a1a1a"
+  divider-color: "#242424"
+  neu-shadow-light: "#222222"
+  neu-shadow-dark: "#0c0c0c"
+  neu-shadow-raised: "4px 4px 12px #0c0c0c, -4px -4px 12px #222222"
+  neu-shadow-inset: "inset 2px 2px 5px #0c0c0c, inset -2px -2px 5px #222222"
+  neu-shadow-flat: "2px 2px 4px #0c0c0c, -2px -2px 4px #222222"
+  primary-color: "#da7756"
+  accent-color: "#da7756"
+  neu-accent: "#da7756"
+  neu-accent-glow: "#da775630"
+  neu-accent-inset: "inset 4px 4px 8px #b85535, inset -4px -4px 8px #f89977"
+  primary-text-color: "#e8e0d8"
+  secondary-text-color: "#9a9088"
+  disabled-text-color: "#5a5550"
+  text-primary-color: "#e8e0d8"
+  label-badge-text-color: "#e8e0d8"
+  ha-card-border-radius: "20px"
+  ha-card-border-width: "0px"
+  ha-card-border-color: "transparent"
+  neu-radius: "20px"
+  neu-radius-sm: "14px"
+  neu-radius-xs: "10px"
+  ha-card-box-shadow: "4px 4px 12px #0c0c0c, -4px -4px 12px #222222, inset 1px 1px 0px #222222"
+  app-header-background-color: "#141414"
+  app-header-text-color: "#e8e0d8"
+  app-header-selection-bar-color: "#da7756"
+  sidebar-background-color: "#0f0f0f"
+  sidebar-text-color: "#e8e0d8"
+  sidebar-icon-color: "#9a9088"
+  sidebar-selected-text-color: "#da7756"
+  sidebar-selected-icon-color: "#da7756"
+  switch-checked-color: "#da7756"
+  switch-unchecked-button-color: "#303030"
+  switch-unchecked-track-color: "#242424"
+  paper-slider-active-color: "#da7756"
+  paper-slider-knob-color: "#da7756"
+  paper-slider-secondary-color: "#da775650"
+  state-active-color: "#da7756"
+  state-inactive-color: "#303030"
+  state-unavailable-color: "#242424"
+  mush-rgb-disabled: "90, 85, 80"
+  label-badge-background-color: "#da7756"
+  paper-item-selected-color: "#da7756"
+  table-row-alternative-background-color: "#161616"
+  paper-listbox-background-color: "#1a1a1a"
+  paper-input-container-color: "#9a9088"
+  paper-input-container-focus-color: "#da7756"
+  input-fill-color: "#0f0f0f"
+  input-ink-color: "#e8e0d8"
+  input-label-ink-color: "#9a9088"
+  input-dropdown-icon-color: "#9a9088"
+  material-background-color: "#1a1a1a"
+  material-secondary-background-color: "#0f0f0f"
+  ha-card-header-color: "#e8e0d8"
+  settings-row-content-color: "#e8e0d8"
+  settings-row-secondary-color: "#9a9088"
+  list-item-color: "#e8e0d8"
+  ha-color-surface-default: "#1a1a1a"
+  ha-color-surface-low: "#0f0f0f"
+  ha-color-surface-lower: "#0a0a0a"
+  ha-color-surface-high: "#222222"
+  ha-color-surface-higher: "#2a2a2a"
+  ha-color-fill-primary-normal-resting: "#222222"
+  ha-color-form-background: "#0f0f0f"
+  ha-color-form-background-hover: "#1a1a1a"
+  ha-color-form-background-disabled: "#141414"
+  ha-color-fill-primary-normal-hover: "#242424"
+  ha-color-fill-primary-normal-active: "#242424"
+  ha-color-fill-primary-quiet-resting: "#1a1a1a"
+  ha-color-fill-primary-loud-resting: "#da7756"
+  ha-color-fill-neutral-normal-resting: "#222222"
+  ha-color-fill-neutral-normal-hover: "#242424"
+  ha-color-fill-neutral-quiet-resting: "#1a1a1a"
+  ha-color-fill-disabled-normal-resting: "#141414"
+  ha-color-on-fill-primary: "#e8e0d8"
+  ha-color-on-fill-neutral: "#e8e0d8"
+  ha-color-on-fill-loud: "#0d0d0d"
+  ha-color-border-neutral-quiet-resting: "#242424"
+  ha-color-border-neutral-normal-resting: "#242424"
+  ha-color-border-primary-normal-resting: "#da7756"
+  ha-color-text-primary: "#e8e0d8"
+  ha-color-text-secondary: "#9a9088"
+  ha-color-text-disabled: "#5a5550"
+  ha-color-primary-40: "#da7756"
+  ha-color-primary-30: "#da7756"
+  ha-color-primary-50: "#da7756"
+  rgb-primary-color: "218, 119, 86"
+  mdc-select-fill-color: "#0f0f0f"
+  mdc-menu-surface-fill-color: "#1a1a1a"
+  md-sys-color-surface: "#1a1a1a"
+  md-sys-color-surface-container: "#0f0f0f"
+  md-sys-color-surface-container-low: "#1a1a1a"
+  md-sys-color-surface-container-high: "#222222"
+  md-sys-color-surface-container-highest: "#2a2a2a"
+  md-sys-color-surface-bright: "#222222"
+  md-sys-color-surface-dim: "#0a0a0a"
+  md-sys-color-on-surface: "#e8e0d8"
+  md-sys-color-on-surface-variant: "#9a9088"
+  md-sys-color-primary: "#da7756"
+  md-sys-color-on-primary: "#0d0d0d"
+  md-sys-color-outline: "#242424"
+  md-sys-color-outline-variant: "#242424"
+  wa-form-control-background-color: "#0f0f0f"
+  wa-form-control-border-color: "#242424"
+  wa-form-control-border-color-hover: "#da7756"
+  wa-form-control-border-color-focus: "#da7756"
+  wa-form-control-value-color: "#e8e0d8"
+  wa-form-control-label-color: "#e8e0d8"
+  wa-form-control-placeholder-color: "#9a9088"
+  wa-form-control-hint-color: "#9a9088"
+  wa-color-surface-default: "#1a1a1a"
+  wa-color-surface-raised: "#222222"
+  wa-color-surface-lowered: "#0a0a0a"
+  wa-color-surface-border: "#242424"
+  wa-color-text-normal: "#e8e0d8"
+  wa-color-text-quiet: "#9a9088"
+  wa-color-neutral-fill-quiet: "#1a1a1a"
+  wa-color-neutral-fill-normal: "#222222"
+  wa-color-neutral-on-quiet: "#e8e0d8"
+  wa-color-neutral-on-normal: "#e8e0d8"
+  wa-color-brand-fill-loud: "#da7756"
+  wa-color-brand-on-loud: "#0d0d0d"
+  wa-color-focus: "#da7756"
+  card-mod-root-yaml: |
+    .: |
+      ha-card[outlined] {
+        --ha-card-border-color: #242424 !important;
+        --ha-card-border-width: 1px !important;
+      }
+      ha-picker-field,
+      ha-combo-box,
+      ha-combo-box-item,
+      ha-dropdown-item,
+      ha-textfield,
+      ha-select,
+      ha-md-select,
+      ha-md-textfield {
+        --mdc-text-field-fill-color: #0f0f0f !important;
+        --mdc-text-field-disabled-fill-color: #0f0f0f !important;
+        --mdc-select-fill-color: #0f0f0f !important;
+        --mdc-select-disabled-fill-color: #0f0f0f !important;
+        --mdc-text-field-ink-color: #e8e0d8 !important;
+        --mdc-select-ink-color: #e8e0d8 !important;
+        --md-filled-field-container-color: #0f0f0f !important;
+        --md-filled-text-field-container-color: #0f0f0f !important;
+        --md-outlined-text-field-container-color: #0f0f0f !important;
+        --md-filled-select-text-field-container-color: #0f0f0f !important;
+        --ha-color-fill-neutral-quiet-resting: #0f0f0f !important;
+        --ha-color-fill-neutral-normal-resting: #0f0f0f !important;
+        background-color: #0f0f0f !important;
+        color: #e8e0d8 !important;
+      }
+      ha-picker-field {
+        border-radius: 14px !important;
+      }
+  card-mod-sidebar-yaml: |
+    .: |
+      .badge {
+        background-color: #da7756 !important;
+        color: #0d0d0d !important;
+      }
